@@ -1,5 +1,10 @@
-### Hi there 👋
 
+<h1 >Hi 👋, I'm Darsh Patel</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsashah45&label=Profile%20views&color=0e75b6&style=flat" alt="vatsashah45" /> </p>
+
+-- 👨‍🎓 I’m an IT high school student
+-- 🔭 I’m currently working on @UnoPlatform
+-- 🌱 I’m currently learning ...
 <!--
 **Darsh0307/Darsh0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
