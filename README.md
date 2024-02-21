@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I’m an IT high school student
 - 🔭 I’m currently working on @UnoPlatform
-- 🌱 I’m currently learning Swift 
+- 🌱 I’m currently learning Swift (IOS development)
 - 💬 Ask me about Politics and Uno 
 - 📫 How to reach me: Twitter , Instagram and email
 - 😄 Pronouns:he/him/his
